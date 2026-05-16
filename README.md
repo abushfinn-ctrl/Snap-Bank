@@ -1,2 +1,19 @@
 # Snap-Bank
 A powerbank with a removable 18650 battery for quick "charges" on the go
+
+# BOM
+|Part Number                |Manufacturer Part Number|Description                     |Quantity|Unit Price CAD|Total Price CAD|Running total CAD|Unit Price USD|Total Price USD|Running total USD|
+|---------------------------|------------------------|--------------------------------|--------|--------------|---------------|-----------------|--------------|---------------|-----------------|
+|1276-1096-1-ND             |CL21A106KOQNNNE         |CAP CER 10UF 16V X5R 0805       |10      |$0.08         |$0.78          |$0.78            |$0.06         |$0.57          |$0.57            |
+|1276-2909-1-ND             |CL21A226MOQNNNE         |CAP CER 22UF 16V X5R 0805       |5       |$0.39         |$1.95          |$2.73            |$0.28         |$1.42          |$1.98            |
+|311-2.0ARCT-ND             |RC0805JR-072RL          |RES 2 OHM 5% 1/8W 0805          |4       |$0.15         |$0.60          |$3.33            |$0.11         |$0.44          |$2.42            |
+|311-20ARCT-ND              |RC0805JR-0720RL         |RES 20 OHM 5% 1/8W 0805         |2       |$0.15         |$0.30          |$3.63            |$0.11         |$0.22          |$2.64            |
+|311-10KARCT-ND             |RC0805JR-0710KL         |RES 10K OHM 5% 1/8W 0805        |2       |$0.15         |$0.30          |$3.93            |$0.11         |$0.22          |$2.86            |
+|311-5.1KARCT-ND            |RC0805JR-075K1L         |RES 5.1K OHM 5% 1/8W 0805       |10      |$0.05         |$0.45          |$4.38            |$0.03         |$0.33          |$3.18            |
+|2073-USB4085-GF-ACT-ND     |USB4085-GF-A            |CONN RCPT USB2.0 TYPE C 16+8POS |2       |$1.31         |$2.62          |$7.00            |$0.95         |$1.90          |$5.09            |
+|587-LAXHG6060YEL1R0NMRCT-ND|LAXHG6060YEL1R0NMR      |FIXED IND 1UH 6.2A 13 MOHM SMD  |2       |$0.95         |$1.90          |$8.90            |$0.69         |$1.38          |$6.47            |
+|EG5350CT-ND                |TL3305AF160QG           |SWITCH TACTILE SPST-NO 0.05A 12V|2       |$0.31         |$0.62          |$9.52            |$0.23         |$0.45          |$6.92            |
+|N/A                        |Digikey Shipping        |Shipping for digikey            |1       |$8.00         |$8.00          |$17.52           |$5.82         |$5.82          |$12.74           |
+|N/A                        |HST                     |Taxes for Digikey               |1       |$2.28         |$2.28          |$19.80           |$1.66         |$1.66          |$14.40           |
+|IP5306                     |Aliexpress              |IP5306 from aliexpress (10 Pack)|1       |3.47          |3.47           |$23.27           |$2.52         |$2.52          |$16.92           |
+|18650                      |Aliexpress              |INR18650 25R 1865 2500Mah       |1       |19.66         |19.66          |$42.93           |$14.29        |$14.29         |$31.21           |

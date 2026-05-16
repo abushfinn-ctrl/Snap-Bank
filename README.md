@@ -12,7 +12,7 @@ A powerbank with a removable 18650 battery for quick "charges" on the go. I love
 
 
 # BOM
-|Part Number                |Manufacturer Part Number|Description                     |Quantity|Unit Price CAD|Total Price CAD|Running total CAD|Unit Price USD|Total Price USD|Running total USD|
+[|Part Number                |Manufacturer Part Number|Description                     |Quantity|Unit Price CAD|Total Price CAD|Running total CAD|Unit Price USD|Total Price USD|Running total USD|
 |---------------------------|------------------------|--------------------------------|--------|--------------|---------------|-----------------|--------------|---------------|-----------------|
 |1276-1096-1-ND             |CL21A106KOQNNNE         |CAP CER 10UF 16V X5R 0805       |10      |$0.08         |$0.78          |$0.78            |$0.06         |$0.57          |$0.57            |
 |1276-2909-1-ND             |CL21A226MOQNNNE         |CAP CER 22UF 16V X5R 0805       |5       |$0.39         |$1.95          |$2.73            |$0.28         |$1.42          |$1.98            |
@@ -26,4 +26,4 @@ A powerbank with a removable 18650 battery for quick "charges" on the go. I love
 |N/A                        |Digikey Shipping        |Shipping for digikey            |1       |$8.00         |$8.00          |$17.52           |$5.82         |$5.82          |$12.74           |
 |N/A                        |HST                     |Taxes for Digikey               |1       |$2.28         |$2.28          |$19.80           |$1.66         |$1.66          |$14.40           |
 |IP5306                     |Aliexpress              |IP5306 from aliexpress (10 Pack)|1       |3.47          |3.47           |$23.27           |$2.52         |$2.52          |$16.92           |
-|18650                      |Aliexpress              |INR18650 25R 1865 2500Mah       |1       |19.66         |19.66          |$42.93           |$14.29        |$14.29         |$31.21           |
+|18650                      |Aliexpress              |INR18650 25R 1865 2500Mah       |1       |19.66         |19.66          |$42.93           |$14.29        |$14.29         |$31.21           |](https://www.aliexpress.com/item/1005009553868764.html?spm=a2g0o.productlist.main.8.77c47db5yCfoUb&algo_pvid=2f68f18d-1428-4b6b-b710-f3b88832853b&aem_p4p_detail=202605161116164352526642951040001402992&algo_exp_id=2f68f18d-1428-4b6b-b710-f3b88832853b-7&pdp_ext_f=%7B%22order%22%3A%22332%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%21137.05%2160.30%21%21%21662.40%21291.46%21%402103274e17789553766967088e9a6b%2112000049447230182%21sea%21CA%217508201891%21X%211%210%21n_tag%3A-29911%3Bd%3Acb3b2026%3Bm03_new_user%3A-29895&curPageLogUid=VhiCHPXzVzso&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009553868764%7C_p_origin_prod%3A&search_p4p_id=202605161116164352526642951040001402992_2)

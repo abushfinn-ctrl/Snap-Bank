@@ -12,7 +12,7 @@ A powerbank with a removable 18650 battery for quick "charges" on the go. I love
 
 
 # BOM
-[|Part Number                |Manufacturer Part Number|Description                     |Quantity|Unit Price CAD|Total Price CAD|Running total CAD|Unit Price USD|Total Price USD|Running total USD|
+|Part Number                |Manufacturer Part Number|Description                     |Quantity|Unit Price CAD|Total Price CAD|Running total CAD|Unit Price USD|Total Price USD|Running total USD|
 |---------------------------|------------------------|--------------------------------|--------|--------------|---------------|-----------------|--------------|---------------|-----------------|
 |1276-1096-1-ND             |CL21A106KOQNNNE         |CAP CER 10UF 16V X5R 0805       |10      |$0.08         |$0.78          |$0.78            |$0.06         |$0.57          |$0.57            |
 |1276-2909-1-ND             |CL21A226MOQNNNE         |CAP CER 22UF 16V X5R 0805       |5       |$0.39         |$1.95          |$2.73            |$0.28         |$1.42          |$1.98            |

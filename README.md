@@ -1,5 +1,15 @@
 # Snap-Bank
-A powerbank with a removable 18650 battery for quick "charges" on the go
+A powerbank with a removable 18650 battery for quick "charges" on the go. I love the idea of this project because it allows you to only carry an extra or two 18650 batteries instead of having to carry a massive powerbank. This means that at school or scout camps I can keep a small powerbank in my pocket because I have really bad battery life on my phone, and I can still have the capacity of a 4 cell powerbank when I need via switching the batteries out. I also designed it that the battery holding can come fully out so you could carry an extra 18650 in the battery holder to keep it a little more protected, although I will probably end up printing a screw on case for the batteries. I also made it with a clear acrylic panel so I can see the cool internals that I spent time on.
+
+# Pictures and Renders
+<img width="897" height="547" alt="Screenshot 2026-05-16 at 2 48 41 PM" src="https://github.com/user-attachments/assets/01756828-41a0-4459-b604-918fc317ea06" />
+<img width="622" height="432" alt="Screenshot 2026-05-16 at 2 49 00 PM" src="https://github.com/user-attachments/assets/59148870-890f-4ef5-9ad2-8d8d4ebf8d00" />
+
+# PCB
+<img width="854" height="556" alt="Screenshot 2026-05-16 at 2 46 15 PM" src="https://github.com/user-attachments/assets/2b95aa09-f973-4468-809b-e7b13f63d362" />
+<img width="1060" height="721" alt="Screenshot 2026-05-16 at 2 47 12 PM" src="https://github.com/user-attachments/assets/43f06cd7-8df8-4fb9-a577-ec39961397eb" />
+<img width="977" height="678" alt="Screenshot 2026-05-16 at 2 46 44 PM" src="https://github.com/user-attachments/assets/e869c68f-e2f8-4837-b003-a97f6b570477" />
+
 
 # BOM
 |Part Number                |Manufacturer Part Number|Description                     |Quantity|Unit Price CAD|Total Price CAD|Running total CAD|Unit Price USD|Total Price USD|Running total USD|

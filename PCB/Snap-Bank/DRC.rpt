@@ -1,0 +1,308 @@
+** Drc report for Powerbank.kicad_pcb **
+** Created on 2026-05-03T16:18:13-0400 **
+
+** Found 69 DRC violations **
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(26.4000 mm, 24.4900 mm): PTH pad A1 [GNDREF] of J2
+    @(25.5500 mm, 24.4900 mm): Track [+5V] on F.Cu, length 1.3500 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(26.4000 mm, 24.4900 mm): PTH pad A1 [GNDREF] of J2
+    @(25.5500 mm, 24.4900 mm): PTH pad A4 [+5V] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(25.5500 mm, 24.4900 mm): PTH pad A4 [+5V] of J2
+    @(24.7000 mm, 24.4900 mm): PTH pad A5 [Net-(J2-CC1)] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(24.7000 mm, 24.4900 mm): PTH pad A5 [Net-(J2-CC1)] of J2
+    @(23.8500 mm, 24.4900 mm): PTH pad A6 [unconnected-(J2-D+-PadA6)] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(23.8500 mm, 24.4900 mm): PTH pad A6 [unconnected-(J2-D+-PadA6)] of J2
+    @(23.0000 mm, 24.4900 mm): PTH pad A7 [unconnected-(J2-D--PadA7)] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(23.0000 mm, 24.4900 mm): PTH pad A7 [unconnected-(J2-D--PadA7)] of J2
+    @(22.1500 mm, 24.4900 mm): PTH pad A8 [<no net>] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(22.1500 mm, 24.4900 mm): PTH pad A8 [<no net>] of J2
+    @(21.3000 mm, 24.4900 mm): PTH pad A9 [+5V] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(21.3000 mm, 24.4900 mm): PTH pad A9 [+5V] of J2
+    @(20.4500 mm, 24.4900 mm): PTH pad A12 [GNDREF] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(20.4500 mm, 23.1400 mm): PTH pad B1 [GNDREF] of J2
+    @(21.3000 mm, 23.1400 mm): PTH pad B4 [+5V] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(21.3000 mm, 23.1400 mm): PTH pad B4 [+5V] of J2
+    @(22.1500 mm, 23.1400 mm): PTH pad B5 [Net-(J2-CC2)] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(22.1500 mm, 23.1400 mm): PTH pad B5 [Net-(J2-CC2)] of J2
+    @(23.0000 mm, 23.1400 mm): PTH pad B6 [unconnected-(J2-D+-PadB6)] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(23.0000 mm, 23.1400 mm): PTH pad B6 [unconnected-(J2-D+-PadB6)] of J2
+    @(23.8500 mm, 23.1400 mm): PTH pad B7 [unconnected-(J2-D--PadB7)] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(23.8500 mm, 23.1400 mm): PTH pad B7 [unconnected-(J2-D--PadB7)] of J2
+    @(24.7000 mm, 23.1400 mm): PTH pad B8 [<no net>] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(24.7000 mm, 23.1400 mm): PTH pad B8 [<no net>] of J2
+    @(25.5500 mm, 23.1400 mm): PTH pad B9 [+5V] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(25.5500 mm, 23.1400 mm): PTH pad B9 [+5V] of J2
+    @(26.4000 mm, 23.1400 mm): PTH pad B12 [GNDREF] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(37.4900 mm, 24.4500 mm): PTH pad A1 [GNDREF] of J1
+    @(36.6400 mm, 24.4500 mm): PTH pad A4 [Net-(U1-VOUT)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(36.6400 mm, 24.4500 mm): PTH pad A4 [Net-(U1-VOUT)] of J1
+    @(35.7900 mm, 24.4500 mm): PTH pad A5 [Net-(J1-CC1)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(35.7900 mm, 24.4500 mm): PTH pad A5 [Net-(J1-CC1)] of J1
+    @(34.9400 mm, 24.4500 mm): PTH pad A6 [Net-(J1-D+-PadA6)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(34.0900 mm, 24.4500 mm): PTH pad A7 [Net-(J1-D+-PadA6)] of J1
+    @(33.2400 mm, 24.4500 mm): PTH pad A8 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(33.2400 mm, 24.4500 mm): PTH pad A8 [<no net>] of J1
+    @(32.3900 mm, 24.4500 mm): PTH pad A9 [Net-(U1-VOUT)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(32.3900 mm, 24.4500 mm): PTH pad A9 [Net-(U1-VOUT)] of J1
+    @(31.5400 mm, 24.4500 mm): PTH pad A12 [GNDREF] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(31.5400 mm, 23.1000 mm): PTH pad B1 [GNDREF] of J1
+    @(32.3900 mm, 23.1000 mm): PTH pad B4 [Net-(U1-VOUT)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(32.3900 mm, 23.1000 mm): PTH pad B4 [Net-(U1-VOUT)] of J1
+    @(33.2400 mm, 23.1000 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(33.2400 mm, 23.1000 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+    @(34.0900 mm, 23.1000 mm): PTH pad B6 [Net-(J1-D+-PadA6)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(34.9400 mm, 23.1000 mm): PTH pad B7 [Net-(J1-D+-PadA6)] of J1
+    @(35.7900 mm, 23.1000 mm): PTH pad B8 [<no net>] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(35.7900 mm, 23.1000 mm): PTH pad B8 [<no net>] of J1
+    @(36.6400 mm, 23.1000 mm): PTH pad B9 [Net-(U1-VOUT)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(36.6400 mm, 23.1000 mm): PTH pad B9 [Net-(U1-VOUT)] of J1
+    @(37.4900 mm, 23.1000 mm): PTH pad B12 [GNDREF] of J1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.1200 mm)
+    Rule: board setup constraints edge; error
+    @(15.0250 mm, 18.1700 mm): Rectangle on Edge.Cuts
+    @(52.9600 mm, 19.0900 mm): Pad 1 [Net-(R4-Pad1)] of SW1 on F.Cu
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.1200 mm)
+    Rule: board setup constraints edge; error
+    @(15.0250 mm, 18.1700 mm): Rectangle on Edge.Cuts
+    @(55.9600 mm, 19.0900 mm): Pad 2 [GNDREF] of SW1 on F.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(20.4500 mm, 23.1400 mm): PTH pad B1 [GNDREF] of J2
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(26.4000 mm, 24.4900 mm): PTH pad A1 [GNDREF] of J2
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(26.4000 mm, 23.1400 mm): PTH pad B12 [GNDREF] of J2
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(31.5400 mm, 24.4500 mm): PTH pad A12 [GNDREF] of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(20.4500 mm, 24.4900 mm): PTH pad A12 [GNDREF] of J2
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(31.5400 mm, 23.1000 mm): PTH pad B1 [GNDREF] of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(37.4900 mm, 23.1000 mm): PTH pad B12 [GNDREF] of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(20.4500 mm, 23.1400 mm): PTH pad B1 [GNDREF] of J2
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(26.4000 mm, 23.1400 mm): PTH pad B12 [GNDREF] of J2
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(31.5400 mm, 23.1000 mm): PTH pad B1 [GNDREF] of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(37.4900 mm, 23.1000 mm): PTH pad B12 [GNDREF] of J1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(27.9700 mm, 40.7400 mm): Pad 2 [GNDREF] of C7 on F.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(32.5675 mm, 27.1500 mm): Pad 2 [GNDREF] of R5 on F.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(36.2325 mm, 38.0500 mm): Pad 2 [GNDREF] of C9 on F.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(20.5250 mm, 26.5000 mm): Pad 2 [GNDREF] of R7 on F.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(42.7200 mm, 41.1800 mm): Pad 1 [GNDREF] of TP2 on F.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(38.6550 mm, 34.8600 mm): Pad 2 [GNDREF] of C8 on F.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(31.4300 mm, 40.6800 mm): Pad 2 [GNDREF] of C4 on F.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(37.8625 mm, 27.1900 mm): Pad 2 [GNDREF] of R6 on F.Cu
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(51.3700 mm, 24.0700 mm): Track [<no net>] on B.Cu, length 0.0300 mm
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(37.9800 mm, 28.8062 mm): Track [Net-(D4-A)] on F.Cu, length 0.0338 mm
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(15.0250 mm, 18.1700 mm): Rectangle on Edge.Cuts
+    @(18.8300 mm, 18.4900 mm): Segment of J2 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(15.0250 mm, 18.1700 mm): Rectangle on Edge.Cuts
+    @(28.0200 mm, 18.4900 mm): Segment of J2 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(15.0250 mm, 18.1700 mm): Rectangle on Edge.Cuts
+    @(29.9200 mm, 18.4500 mm): Segment of J1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(15.0250 mm, 18.1700 mm): Rectangle on Edge.Cuts
+    @(39.1100 mm, 18.4500 mm): Segment of J1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(47.6900 mm, 28.1900 mm): Reference field of J2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(33.2625 mm, 28.4400 mm): Reference field of R5
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(35.3200 mm, 36.4000 mm): Reference field of C9
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(19.6125 mm, 24.8500 mm): Reference field of R7
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(30.3200 mm, 41.2050 mm): Reference field of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(34.3025 mm, 38.0250 mm): Circle of U1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(52.9425 mm, 27.6700 mm): Reference field of D3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(56.3625 mm, 27.6900 mm): Reference field of D4
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(38.9900 mm, 25.1300 mm): Segment of J1 on F.Silkscreen
+    @(36.9500 mm, 25.5400 mm): Reference field of R6
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(35.3200 mm, 36.4000 mm): Reference field of C9
+    @(35.8629 mm, 36.8050 mm): Segment of R3 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(33.2625 mm, 28.4400 mm): Reference field of R5
+    @(33.7071 mm, 27.8850 mm): Segment of R5 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(27.9000 mm, 25.1700 mm): Segment of J2 on F.Silkscreen
+    @(19.6125 mm, 24.8500 mm): Reference field of R7
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(47.6900 mm, 28.1900 mm): Reference field of J2
+    @(50.5225 mm, 28.3600 mm): Segment of D2 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(47.8375 mm, 28.3600 mm): Segment of D2 on F.Silkscreen
+    @(47.6900 mm, 28.1900 mm): Reference field of J2
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(51.2600 mm, 22.6900 mm): Reference field of SW1
+    @(50.5100 mm, 22.9500 mm): Reference field of D1
+
+** Found 8 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(20.5250 mm, 26.5000 mm): Pad 2 [GNDREF] of R7 on F.Cu
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(32.5675 mm, 27.1500 mm): Pad 2 [GNDREF] of R5 on F.Cu
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(32.5675 mm, 27.1500 mm): Pad 2 [GNDREF] of R5 on F.Cu
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(68.0000 mm, 47.8800 mm): Zone [GNDREF] on F.Cu and B.Cu, priority 0
+    @(38.6550 mm, 34.8600 mm): Pad 2 [GNDREF] of C8 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(53.8800 mm, 29.3200 mm): Track [Net-(D2-K)] on F.Cu, length 1.5250 mm
+    @(48.5850 mm, 29.3200 mm): Track [Net-(D2-K)] on F.Cu, length 11.1925 mm
+
+** Found 0 Footprint errors **
+
+** End of Report **

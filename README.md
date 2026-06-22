@@ -1,5 +1,7 @@
 # Snap-Bank
 A powerbank with a removable 18650 battery for quick "charges" on the go. I love the idea of this project because it allows you to only carry an extra or two 18650 batteries instead of having to carry a massive powerbank. This means that at school or scout camps I can keep a small powerbank in my pocket because I have really bad battery life on my phone, and I can still have the capacity of a 4 cell powerbank when I need via switching the batteries out. I also designed it that the battery holding can come fully out so you could carry an extra 18650 in the battery holder to keep it a little more protected, although I will probably end up printing a screw on case for the batteries. I also made it with a clear acrylic panel so I can see the cool internals that I spent time on.
+# Final Product
+<img width="3024" height="4032" alt="IMG_3782" src="https://github.com/user-attachments/assets/5d7a48f6-0570-41b8-81ba-7477deb2250a" />
 
 # Pictures and Renders
 <img width="897" height="547" alt="Screenshot 2026-05-16 at 2 48 41 PM" src="https://github.com/user-attachments/assets/01756828-41a0-4459-b604-918fc317ea06" />
